@@ -1,0 +1,13 @@
+C:\Users\Salehova\source\repos\Restaraunt\Restaraunt\bin\Debug\netcoreapp3.1\Restaraunt.exe
+C:\Users\Salehova\source\repos\Restaraunt\Restaraunt\bin\Debug\netcoreapp3.1\Restaraunt.deps.json
+C:\Users\Salehova\source\repos\Restaraunt\Restaraunt\bin\Debug\netcoreapp3.1\Restaraunt.runtimeconfig.json
+C:\Users\Salehova\source\repos\Restaraunt\Restaraunt\bin\Debug\netcoreapp3.1\Restaraunt.runtimeconfig.dev.json
+C:\Users\Salehova\source\repos\Restaraunt\Restaraunt\bin\Debug\netcoreapp3.1\Restaraunt.dll
+C:\Users\Salehova\source\repos\Restaraunt\Restaraunt\bin\Debug\netcoreapp3.1\Restaraunt.pdb
+C:\Users\Salehova\source\repos\Restaraunt\Restaraunt\obj\Debug\netcoreapp3.1\Restaraunt.csprojAssemblyReference.cache
+C:\Users\Salehova\source\repos\Restaraunt\Restaraunt\obj\Debug\netcoreapp3.1\Restaraunt.AssemblyInfoInputs.cache
+C:\Users\Salehova\source\repos\Restaraunt\Restaraunt\obj\Debug\netcoreapp3.1\Restaraunt.AssemblyInfo.cs
+C:\Users\Salehova\source\repos\Restaraunt\Restaraunt\obj\Debug\netcoreapp3.1\Restaraunt.csproj.CoreCompileInputs.cache
+C:\Users\Salehova\source\repos\Restaraunt\Restaraunt\obj\Debug\netcoreapp3.1\Restaraunt.dll
+C:\Users\Salehova\source\repos\Restaraunt\Restaraunt\obj\Debug\netcoreapp3.1\Restaraunt.pdb
+C:\Users\Salehova\source\repos\Restaraunt\Restaraunt\obj\Debug\netcoreapp3.1\Restaraunt.genruntimeconfig.cache
